@@ -1,4 +1,7 @@
 # KeepLight-Charter
+
+https://substack.com/@wwtempestww/note/c-286428392?r=2n6bfb&utm_medium=ios&utm_source=notes-share-action
+
 A public-interest framework for humane guardian AI: memory, dignity, consent, privacy, and human reconnection.
 Keeplight Charter
 
